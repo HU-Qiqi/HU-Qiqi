@@ -1,5 +1,4 @@
 ## Hi 👋 I'm Qiqi Hu (胡齐齐)  
-**Chelsey Hu**
 
 🎓 M.Eng. Student @ **Tsinghua University (SIGS)**  
 🔬 AI for Energy Systems · Battery Safety · Scientific Machine Learning  
