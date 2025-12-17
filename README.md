@@ -1,19 +1,13 @@
-## Hi👋, this is Qiqi Hu (胡齐齐).
+## Hi 👋 I'm Qiqi Hu (胡齐齐)  
+**Chelsey Hu**
 
-<!--
-**HU-Qiqi/HU-Qiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Eng. Student @ **Tsinghua University (SIGS)**  
+🔬 AI for Energy Systems · Battery Safety · Scientific Machine Learning  
 
-Here are some ideas to get you started:
+- 🔭 Research: AI-driven energy systems, battery thermal safety, scientific ML, diffusion models  
+- 🧰 Methods: PyTorch · optimization · thermal & multiphysics modeling (COMSOL)  
+- 🎯 **Seeking PhD opportunities (Fall 2027)** in Energy-AI, Battery Safety, Scientific ML for Multiphysics Systems  
+- 📄 Preprints & publications: coming soon
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📧 **chelseyhu111@gmail.com**
 
-- 🔭 I work on AI for Energy Systems & Low-Carbon Innovation, especially in battery safety and thermal management.
-- 🔥 I am currently looking for exciting PhD opportunities. Feel free to contact me at **chelseyhu111@gmail.com**.
