@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋, this is Qiqi Hu (胡齐齐).
 
 <!--
 **HU-Qiqi/HU-Qiqi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I work on AI for Energy Systems & Low-Carbon Innovation, especially in battery safety and thermal management.
+- 🔥 I am currently looking for exciting PhD opportunities. Feel free to contact me at **chelseyhu111@gmail.com**.
